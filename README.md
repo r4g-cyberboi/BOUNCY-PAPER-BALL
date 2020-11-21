@@ -1,2 +1,1 @@
-# BOUNCY-PAPER-BALL
-trash goes in trash can 
+# CP-2
